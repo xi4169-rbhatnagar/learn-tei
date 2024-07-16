@@ -1,0 +1,2 @@
+openai~=1.35.14
+chromadb~=0.5.4
